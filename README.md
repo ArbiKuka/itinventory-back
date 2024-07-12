@@ -8,14 +8,14 @@ Backend Instructions
    - Open appsettings.json
    - Modify the "DefaultConnection" string to match your PostgreSQL setup
 
-3. Open a terminal in the project directory and run the following commands:
-   dotnet restore
+3. Open a terminal in the project directory and run the following commands:<br>
+   dotnet restore<br>
    dotnet ef database update
 
-4. Build the project:
+4. Build the project:<br>
    dotnet build
 
-5. Run the application:
+5. Run the application:<br>
    dotnet run
 
 The backend API should now be running on http://localhost:5193
@@ -26,11 +26,11 @@ API Endpoints:
 - POST /api/devices - Create a new device
 - PUT /api/devices/{id} - Update an existing device
 - DELETE /api/devices/{id} - Delete a device
-
+<br>
 - GET /api/employees - Retrieve all employees
 - GET /api/employees/{id} - Retrieve a specific employee
 - POST /api/employees - Create a new employee
 - PUT /api/employees/{id} - Update an existing employee
 - DELETE /api/employees/{id} - Delete an employee
-
+<br>
 Ensure that PostgreSQL is running before starting the backend application.
