@@ -26,7 +26,6 @@ API Endpoints:
 - POST /api/devices - Create a new device
 - PUT /api/devices/{id} - Update an existing device
 - DELETE /api/devices/{id} - Delete a device
-<br>
 - GET /api/employees - Retrieve all employees
 - GET /api/employees/{id} - Retrieve a specific employee
 - POST /api/employees - Create a new employee
