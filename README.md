@@ -1,7 +1,7 @@
 Backend Instructions
 
-1. Clone the repository: \n
-   git clone this-repo-url
+1. Clone the repository: <br>
+   git clone this-repo-url <br>
    cd your-backend-folder-name
 
 2. Update the database connection string:
