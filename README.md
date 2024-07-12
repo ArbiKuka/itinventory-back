@@ -1,6 +1,6 @@
 Backend Instructions
 
-1. Clone the repository:
+1. Clone the repository: \n
    git clone this-repo-url
    cd your-backend-folder-name
 
